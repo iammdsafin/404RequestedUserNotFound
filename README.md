@@ -35,5 +35,4 @@ American International University Bangladesh </i></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/404RequestedUserNotFound)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
 
