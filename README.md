@@ -16,11 +16,7 @@ Skills: C++ / JAVA / JS / HTML5 / CSS3 / C# / SQL
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: waching movies 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/404RequestedUserNotFound) 
  
