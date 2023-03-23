@@ -17,20 +17,13 @@ American International University Bangladesh </i></p>
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: !i am funny
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Skills and Tools:</h3>
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,html,css,dotnet,java,js,mysql,php)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,html,css,dotnet,java,js,mysql,php,figma,github,linux,matlab,octave,postman,)]()
 
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,html,css,dotnet,java,js,mysql,php)]()
 
 
 <h3 align="left">Languages and Tools:</h3>
