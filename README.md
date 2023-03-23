@@ -1,7 +1,7 @@
 <p align="center"><b>hello planet earth 🌏,i am md.safin 👦</b></p>
 
 <p align="center"><i>Undergraduate Computer Science & Engineering Student at
-American International University Bangladesh</i></p>
+American International University Bangladesh </i></p>
 
 <p align="center">
   <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="I am GitHub Readme Generator's creator">
@@ -10,7 +10,7 @@ American International University Bangladesh</i></p>
 
 Skills: C++ / JAVA / JS / HTML5 / CSS3 / C# / SQL
 
-- 📖 I’m currently in my last semester of graduation
+- 🎓 I’m currently in my last semester of graduation
 - 🌱 I’m currently learning .NET 
 - 🤔 I’m looking for an internship 
 - 😄 Pronouns: he/him 
