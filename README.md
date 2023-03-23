@@ -1,8 +1,8 @@
 <p align="center"><b>hello planet earth 🌏,i am md.safin 👦</b></p>
 
-
-
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center">
+  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="I am GitHub Readme Generator's creator">
+</p>
 
 <p align="center"><i>A Final-Year Undergraduate Computer Science & Engineering Student at
 American International University Bangladesh</i></p>
