@@ -21,7 +21,7 @@ Skills: C++ / JAVA / JS / HTML5 / CSS3 / C# / SQL
 - ⚡ Fun fact: !i am funny
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,dotnet,java,js,php)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
