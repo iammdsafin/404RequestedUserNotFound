@@ -1,11 +1,11 @@
-<p align="center"><b>Hello Planet Earth 🌏,i am md.safin 👦</b></p>
+<p align="center"><b>hello planet earth 🌏,i am md.safin 👦</b></p>
 
 
 
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="center">A Final-Year Undergraduate Computer Science & Engineering Student at
-American International University Bangladesh</p>
+<p align="center"><i>A Final-Year Undergraduate Computer Science & Engineering Student at
+American International University Bangladesh</i></p>
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
