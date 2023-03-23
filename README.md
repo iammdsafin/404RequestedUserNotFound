@@ -1,5 +1,9 @@
 <p align="center"><b>Hello Planet Earth 🌏</b></p>
 
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<style>
+* {max-width: 100vw; max-height: 100vh; }
+</style>
 
 ### i am md.safin <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></picture>
 
