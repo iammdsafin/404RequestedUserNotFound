@@ -18,7 +18,10 @@ Skills: C++ / JAVA / JS / HTML5 / CSS3 / C# / SQL
 - 🌱 I’m currently learning .NET 
 - 🤔 I’m looking for an internship 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: waching movies 
+- ⚡ Fun fact: !i am funny
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
