@@ -21,7 +21,7 @@ American International University Bangladesh </i></p>
 <p align="left">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,html,css,dotnet,java,js,mysql,php,figma,github,linux,matlab,octave,postman,)]()
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,js,mysql,php,github,linux,matlab,octave,postman,)]()
 
 
 
