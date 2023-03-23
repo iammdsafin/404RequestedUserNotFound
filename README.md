@@ -1,5 +1,5 @@
-#0969DA
-### **Hello Planet Earth** 🌏
+<p align="center"><b>Hello Planet Earth 🌏</b></p>
+<p align="center"><b></b></p>
 ### i am md.safin 👦
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
