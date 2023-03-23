@@ -1,5 +1,8 @@
 <p align="center"><b>Hello Planet Earth 🌏</b></p>
 
+<a href="https://github.com/404RequestedUserNotFound/portfolio/blob/main/main.js">Click here to view my awesome page</a>
+
+
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 <style>
 * {max-width: 100vw; max-height: 100vh; }
