@@ -17,7 +17,7 @@ American International University Bangladesh </i></p>
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: !i am funny
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
 </p>
 
