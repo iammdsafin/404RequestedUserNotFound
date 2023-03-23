@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
+</div>
+
 <p align="center"><b>Hello 👋, planet earth 🌏, i am md.safin 👦</b></p>
 
 <p align="center"><i>Undergraduate Computer Science & Engineering Student at
@@ -66,4 +70,3 @@ Skills: C++ / JAVA / JS / HTML5 / CSS3 / C# / SQL
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
 
-![Profile views](https://gpvc.arturio.dev/404RequestedUserNotFound)  
