@@ -24,11 +24,21 @@ American International University Bangladesh </i></p>
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,js,mysql,php,github,linux,matlab,octave,postman)]()
 
 
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,js,mysql,php,github,linux,matlab,octave,postman" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
