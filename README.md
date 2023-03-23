@@ -21,6 +21,7 @@ American International University Bangladesh </i></p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,dotnet,java,js,php)]
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
