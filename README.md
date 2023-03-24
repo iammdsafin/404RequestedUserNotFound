@@ -3,36 +3,34 @@
 </div>  
   
 
-### <div align="center">I'm Safin  👦, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
-  
+### <div align="center">I'm Safin 👦, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
+<div style="text-align:center;">
+  <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
+</div>
 
 - 🎓 I’m currently in my last semester of graduation  
-  
-
 - 📖 I’m currently learning dotnet framework  
-  
-
 - 🤔 I’m looking for an internship  
-  
-
 - 😄 Pronouns: he/him  
-  
-
 - ⚡ Fun fact: !I am super funny  
   
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,js,mysql,php,github,linux,matlab,octave,postman" />
   </a>
 </p>
 
+
+
 ## Connect with me  
 <div align="center">
+  
 <a href="https://github.com/404RequestedUserNotFound" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -52,7 +50,6 @@
 <a href="https://www.facebook.com/AhmedShafinOfficial" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-  
   
 
 <br/>  
@@ -88,15 +85,8 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-<div style="text-align:center;">
-  <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
-</div>
 
 <p align="center"><b>Hello 👋, Planet Earth 🌏, I am md.safin 👦</b></p>
 
