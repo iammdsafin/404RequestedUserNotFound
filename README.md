@@ -82,9 +82,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=404RequestedUserNotFound&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>
