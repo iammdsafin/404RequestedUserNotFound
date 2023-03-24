@@ -13,11 +13,11 @@
 <br/>
 
 
-- 🎓 I’m currently in my last semester of graduation  
-- 📖 I’m currently learning dotnet framework  
-- 🤔 I’m looking for an internship  
+- 🎓 I’m currently in my last semester of graduation.  
+- 📖 I’m currently learning dotnet framework.
+- 🤔 I'm looking for an internship in the Software Engineering field.
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: !I am super funny  
+- ⚡ Fun fact: !I am super funny. 
   
 
 
