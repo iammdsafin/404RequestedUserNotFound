@@ -81,3 +81,6 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
+  
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)  
