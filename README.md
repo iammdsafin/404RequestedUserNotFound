@@ -31,13 +31,23 @@
 <br/>  
 <br/>  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
 </p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=404RequestedUserNotFound" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=404RequestedUserNotFound" />
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Connect with me  
 <div align="center">
