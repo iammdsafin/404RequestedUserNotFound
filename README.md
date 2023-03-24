@@ -71,7 +71,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-  Why don't scientists trust atoms? Because they make up everything!
+  Why don't scientists trust atoms? Because they make up everything! 👨‍🔬
 <!-- BLOG-POST-LIST:END -->  
   
 
