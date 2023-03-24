@@ -32,11 +32,9 @@
 <br/>  
 
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
+</p> <p align="center">
     <img src="https://streak-stats.demolab.com/?user=404RequestedUserNotFound" />
 </p>
 
