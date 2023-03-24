@@ -75,4 +75,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 
-https://assets2.lottiefiles.com/packages/lf20_mnn2ubr9.json
+<iframe src="https://embed.lottiefiles.com/animation/49075"></iframe>
