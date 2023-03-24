@@ -12,7 +12,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 - 🎓 I’m currently in my last semester of graduation  
@@ -21,7 +20,7 @@
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !I am super funny  
   
-
+<br/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +32,10 @@
   </a>
 </p>
 
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -75,7 +78,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=jqr7zvuaq2tbdaqu38jbds9nk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=jqr7zvuaq2tbdaqu38jbds9nk&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+
 
 <br/>  
 
@@ -84,20 +87,4 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
   
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/404RequestedUserNotFound" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-
-
-
-
-
-
+<br/>
