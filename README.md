@@ -8,6 +8,13 @@
   <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
 </div>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 - 🎓 I’m currently in my last semester of graduation  
 - 📖 I’m currently learning dotnet framework  
 - 🤔 I’m looking for an internship  
