@@ -33,6 +33,8 @@ American International University Bangladesh </i></p>
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/404RequestedUserNotFound)  
+<p align="center"> 
+  ![GitHub metrics](https://metrics.lecoq.io/404RequestedUserNotFound)  
+</p>
 
 
