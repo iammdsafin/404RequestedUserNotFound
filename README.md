@@ -75,5 +75,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_mnn2ubr9.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;" hover loop controls autoplay></lottie-player>
+https://assets2.lottiefiles.com/packages/lf20_mnn2ubr9.json
