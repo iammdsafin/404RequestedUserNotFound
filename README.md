@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello 👋, Planet Earth 🌏 I'm Safin 👦, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
+### <div align="center">Hello! 👋, Planet Earth 🌏 I'm Safin 👦, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
 <div align="center">
   <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
 </div>
@@ -38,7 +38,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me  
 <div align="center">
   
