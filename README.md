@@ -35,6 +35,7 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
 
 ## Connect with me  
 <div align="center">
@@ -70,9 +71,3 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
-
-<iframe src="https://embed.lottiefiles.com/animation/49075"></iframe>
