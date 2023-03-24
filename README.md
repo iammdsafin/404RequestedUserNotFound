@@ -2,7 +2,7 @@
   <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
 </div>
 
-<p align="center"><b>Hello 👋, planet earth 🌏, i am md.safin 👦</b></p>
+<p align="center"><b>Hello 👋, Planet Earth 🌏, I am md.safin 👦</b></p>
 
 <p align="center"><i>Undergraduate Computer Science & Engineering Student at
 American International University Bangladesh </i></p>
