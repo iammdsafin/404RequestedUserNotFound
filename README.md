@@ -19,10 +19,7 @@
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !I am super funny  
   
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-</p>
+
 
 ## Languages and Tools
 <p align="center">
