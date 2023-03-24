@@ -28,6 +28,9 @@
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Connect with me  
 <div align="center">
   
@@ -85,29 +88,6 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-
-
-
-<p align="center"><b>Hello 👋, Planet Earth 🌏, I am md.safin 👦</b></p>
-
-<p align="center"><i>Undergraduate Computer Science & Engineering Student at
-American International University Bangladesh </i></p>
-
-<p align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="I am GitHub Readme Generator's creator">
-</p>
-
-- 🎓 I’m currently in my last semester of graduation
-- 🌱 I’m currently learning .NET 
-- 🤔 I’m looking for an internship 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: !i am funny
-
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
