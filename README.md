@@ -33,9 +33,6 @@ American International University Bangladesh </i></p>
 
 
 
-<p align="center"> 
-  ![GitHub metrics](https://metrics.lecoq.io/404RequestedUserNotFound)  
-</p>
 
-<img src="https://metrics.lecoq.io/404RequestedUserNotFound" style="display: block; margin: 0 auto;">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
