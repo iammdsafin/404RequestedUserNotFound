@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Safin 👦, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
-<div style="text-align:center;">
+<div align="center">
   <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
 </div>
 
