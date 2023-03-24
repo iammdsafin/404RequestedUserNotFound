@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,js,mysql,php,github,linux,matlab,octave,postman" />
+    <img src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true)
