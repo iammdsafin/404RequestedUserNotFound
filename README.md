@@ -61,19 +61,12 @@
 <a href="https://www.facebook.com/AhmedShafinOfficial" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-  
-
 <br/>  
-
-
-
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
   Why don't scientists trust atoms? Because they make up everything! 👨‍🔬
 <!-- BLOG-POST-LIST:END -->  
-  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=404RequestedUserNotFound&theme=github-compact)
