@@ -65,7 +65,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-  Why don't scientists trust atoms? Because they make up everything! 👨‍🔬
+  I would tell you but it will be pointless! 🙈
 <!-- BLOG-POST-LIST:END -->  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
