@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello! 👋, Planet Earth 🌏 , an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
+### <div align="center">Hello! 👋, Planet Earth 🌏, an Undergraduate Computer Science & Engineering Student at American International University Bangladesh 🎓</div>  
 <div align="center">
   <img src="https://gpvc.arturio.dev/404RequestedUserNotFound">
 </div>
