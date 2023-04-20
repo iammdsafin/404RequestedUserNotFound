@@ -14,7 +14,7 @@
 
 
 - 🎓 I’m currently in my last semester of graduation.  
-- 📖 I’m currently learning dotnet framework.
+- 📖 I’m currently learning .NET framework.
 - 🤔 I'm looking for an internship in the Software Engineering field.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
