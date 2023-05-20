@@ -18,7 +18,7 @@
 - 🤔 I'm looking for an internship in the Software Engineering field.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
-- 🎮 Play Tic-Tac-Toc   <a href="https://404requestedusernotfound.github.io/Tic-Tac-Toe/index.html">D</a>
+- 🎮 Play <a href="https://404requestedusernotfound.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
 
 
 ## Languages and Tools
