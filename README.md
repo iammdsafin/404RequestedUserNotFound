@@ -61,4 +61,4 @@
 <!-- BLOG-POST-LIST:END -->  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=404RequestedUserNotFound&theme=github-compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=404RequestedUserNotFound&theme=github-compact)
