@@ -60,5 +60,5 @@
   I would tell you but it will be pointless! 🙈
 <!-- BLOG-POST-LIST:END -->  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
+(https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=404RequestedUserNotFound&theme=github-compact)
