@@ -15,7 +15,7 @@
 
 - 🎓 I’m currently in my last semester of graduation.  
 - 📖 I’m currently learning React.
-- 🤔 I'm looking for an internship.
+- 🤔 I'm looking for a job or an internship.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
 - 🎮 Play <a href="https://404requestedusernotfound.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
