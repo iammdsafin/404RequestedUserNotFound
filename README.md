@@ -30,8 +30,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 <p align="center">
