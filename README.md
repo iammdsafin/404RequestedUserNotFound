@@ -28,12 +28,9 @@
   </a>
 </p>
 
-
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)</p>
+</p>
 
 
 ## Connect with me  
