@@ -28,9 +28,11 @@
   </a>
 </p>
 
-<p align="center">
+
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)</p>
-</p>
+</div>
+
 
 
 ## Connect with me  
