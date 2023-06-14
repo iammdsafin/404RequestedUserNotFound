@@ -32,10 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
-    <img src="https://github-readme-stats.vercel.app/api?username=404RequestedUserNotFound&show_icons=true&count_private=true" />
-</p>
-
-
 ## Connect with me  
 <div align="center">
   
