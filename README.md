@@ -27,7 +27,7 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact) ![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact)
 
 
 
