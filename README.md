@@ -12,7 +12,7 @@
 
 
 - 🎓 I’m currently in my last semester of graduation.  
-- 📖 I’m currently learning React.
+- 📖 I’m currently learning Laravel.
 - 🤔 I'm looking for a job or an internship.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
