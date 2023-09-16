@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://github.com/404RequestedUserNotFound/404RequestedUserNotFound/blob/main/404.gif" />
+<img src="https://github.com/404RequestedUserNotFound/404RequestedUserNotFound/blob/main/404_page.gif" />
 </div>  
 
 - 🎓 I’m currently in my last semester of graduation.  
-- 📖 I’m currently learning Laravel.
-- 🤔 I'm looking for peace.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
 - 🎮 Play <a href="https://404requestedusernotfound.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
