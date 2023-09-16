@@ -22,7 +22,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,java,mysql,php,github,linux,postman,git" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,mysql,php,laravel,github,linux,postman,git" />
   </a>
 </p>
 
