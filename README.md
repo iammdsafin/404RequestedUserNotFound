@@ -13,7 +13,7 @@
 
 - 🎓 I’m currently in my last semester of graduation.  
 - 📖 I’m currently learning Laravel.
-- 🤔 I'm looking peace.
+- 🤔 I'm looking for peace.
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
 - 🎮 Play <a href="https://404requestedusernotfound.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
@@ -22,7 +22,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,mysql,php,laravel,github,linux,postman,git" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,dotnet,mysql,php,laravel,react,github,gitlab,linux,postman,git" />
   </a>
 </p>
 
