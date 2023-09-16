@@ -1,15 +1,6 @@
 <div align="center">
 <img src="https://github.com/404RequestedUserNotFound/404RequestedUserNotFound/blob/main/404.gif" />
 </div>  
-  
-
-//### <div align="center">Hello! 👋, Planet Earth 🌏</div>  
-
-
-
-<br/>
-<br/>
-
 
 - 🎓 I’m currently in my last semester of graduation.  
 - 📖 I’m currently learning Laravel.
